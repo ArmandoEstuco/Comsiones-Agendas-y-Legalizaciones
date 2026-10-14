@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.template
+
+postgres_data/
+*.log
