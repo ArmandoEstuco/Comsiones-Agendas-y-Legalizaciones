@@ -1,6 +1,7 @@
 .env
 .env.*
 !.env.template
+!backend/.env.example
 
 postgres_data/
 *.log
